@@ -1,0 +1,122 @@
+{
+    "card1": {
+        "concept": "Cerebrum",
+        "explanation": "Largest brain region (~85% of mass), divided into two hemispheres.  Processes sensory and motor information, conscious thought."
+    },
+    "card2": {
+        "concept": "Gyri",
+        "explanation": "Elevated ridges on the cerebral surface, increasing surface area for processing."
+    },
+    "card3": {
+        "concept": "Sulci",
+        "explanation": "Shallow grooves separating gyri on the cerebral surface."
+    },
+    "card4": {
+        "concept": "Fissures",
+        "explanation": "Deep grooves separating large brain regions."
+    },
+    "card5": {
+        "concept": "Longitudinal Fissure",
+        "explanation": "Separates the two cerebral hemispheres."
+    },
+    "card6": {
+        "concept": "Frontal Lobe",
+        "explanation": "Located under the frontal bone; involved in complex learning and primary motor cortex."
+    },
+    "card7": {
+        "concept": "Parietal Lobe",
+        "explanation": "Under the parietal bone; processes sensory information, involved in language."
+    },
+    "card8": {
+        "concept": "Central Sulcus",
+        "explanation": "Separates the frontal and parietal lobes."
+    },
+    "card9": {
+        "concept": "Occipital Lobe",
+        "explanation": "Under the occipital bone; processes visual information and reading comprehension."
+    },
+    "card10": {
+        "concept": "Temporal Lobe",
+        "explanation": "Under the temporal bone; processes auditory information and equilibrium."
+    },
+    "card11": {
+        "concept": "Insula",
+        "explanation": "Deep within the lateral sulcus; processes sensory information associated with hearing and equilibrium."
+    },
+    "card12": {
+        "concept": "Corpus Callosum",
+        "explanation": "Major bridge of white fibers connecting the two cerebral hemispheres."
+    },
+    "card13": {
+        "concept": "Thalamus",
+        "explanation": "Major relay point and processing center for sensory impulses (excluding olfaction)."
+    },
+    "card14": {
+        "concept": "Hypothalamus",
+        "explanation": "Visceral control center; maintains homeostasis."
+    },
+    "card15": {
+        "concept": "Pituitary Gland",
+        "explanation": "Produces and releases endocrine hormones."
+    },
+    "card16": {
+        "concept": "Pineal Gland",
+        "explanation": "Produces and releases endocrine hormones."
+    },
+    "card17": {
+        "concept": "Midbrain",
+        "explanation": "Between the diencephalon and pons; contains various nuclei and tracts."
+    },
+    "card18": {
+        "concept": "Pons",
+        "explanation": "Part of the brainstem; involved in respiration and sleep-wake cycle."
+    },
+    "card19": {
+        "concept": "Medulla Oblongata",
+        "explanation": "Connects the brain to the spinal cord; controls vital functions like breathing and heart rate."
+    },
+    "card20": {
+        "concept": "Cerebellum",
+        "explanation": "Coordinates movement, posture, and balance."
+    },
+    "card21": {
+        "concept": "Basal Nuclei",
+        "explanation": "Subcortical gray matter; regulates skeletal muscle movement."
+    },
+    "card22": {
+        "concept": "Caudate Nucleus",
+        "explanation": "Basal nucleus; initiates voluntary movements and coordinates slow muscle contractions."
+    },
+    "card23": {
+        "concept": "Putamen",
+        "explanation": "Basal nucleus; initiates voluntary movements and coordinates slow muscle contractions."
+    },
+    "card24": {
+        "concept": "Globus Pallidus",
+        "explanation": "Basal nucleus; initiates voluntary movements and coordinates slow muscle contractions."
+    },
+    "card25": {
+        "concept": "Fornix",
+        "explanation": "White matter tract; links regions of the limbic system."
+    },
+    "card26": {
+        "concept": "Anterior Commissure",
+        "explanation": "Connects the two cerebral hemispheres."
+    },
+    "card27": {
+        "concept": "Precentral Gyrus",
+        "explanation": "Location of the primary motor cortex."
+    },
+    "card28": {
+        "concept": "Postcentral Gyrus",
+        "explanation": "Location of the primary somatosensory cortex."
+    },
+    "card29": {
+        "concept": "Parieto-occipital Sulcus",
+        "explanation": "Separates the parietal and occipital lobes."
+    },
+    "card30": {
+        "concept": "Lateral Sulcus",
+        "explanation": "Separates the frontal and parietal lobes from the temporal lobe."
+    }
+}
