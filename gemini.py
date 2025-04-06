@@ -1,9 +1,9 @@
 import json
-from google import genai
+import google.generativeai as genai
 from PyPDF2 import PdfReader
 
 # Configure the generative AI client
-client = genai.Client(api_key="AIzaSyB-f0wwWOlfxVOgfpylwfI0aitBnSw17RA")
+client = genai.configure(api_key="AIzaSyB-f0wwWOlfxVOgfpylwfI0aitBnSw17RA")
 
 # Step 1: Extract text from a local PDF
 def extract_text_from_pdf(pdf_path):

@@ -1,122 +1,272 @@
 {
     "card1": {
         "concept": "Cerebrum",
-        "explanation": "Largest brain region (~85% of mass), divided into two hemispheres.  Processes sensory and motor information, conscious thought."
+        "explanation": "Largest brain region (~85% of mass), divided into two hemispheres.  Processes sensory and motor information, conscious thought.",
+        "repetition": 0,
+        "interval": 1,
+        "ef": 2.5,
+        "last_review_date": "2025-04-08",
+        "next_review_date": "2025-04-09"
     },
     "card2": {
         "concept": "Gyri",
-        "explanation": "Elevated ridges on the cerebral surface, increasing surface area for processing."
+        "explanation": "Elevated ridges on the cerebral surface, increasing surface area for processing.",
+        "repetition": 2,
+        "interval": 2,
+        "ef": 2.5,
+        "last_review_date": "2025-04-08",
+        "next_review_date": "2025-04-10"
     },
     "card3": {
         "concept": "Sulci",
-        "explanation": "Shallow grooves separating gyri on the cerebral surface."
+        "explanation": "Shallow grooves separating gyri on the cerebral surface.",
+        "repetition": 2,
+        "interval": 2,
+        "ef": 2.5,
+        "last_review_date": "2025-04-08",
+        "next_review_date": "2025-04-10"
     },
     "card4": {
         "concept": "Fissures",
-        "explanation": "Deep grooves separating large brain regions."
+        "explanation": "Deep grooves separating large brain regions.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card5": {
         "concept": "Longitudinal Fissure",
-        "explanation": "Separates the two cerebral hemispheres."
+        "explanation": "Separates the two cerebral hemispheres.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card6": {
         "concept": "Frontal Lobe",
-        "explanation": "Located under the frontal bone; involved in complex learning and primary motor cortex."
+        "explanation": "Located under the frontal bone; involved in complex learning and primary motor cortex.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card7": {
         "concept": "Parietal Lobe",
-        "explanation": "Under the parietal bone; processes sensory information, involved in language."
+        "explanation": "Under the parietal bone; processes sensory information, involved in language.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card8": {
         "concept": "Central Sulcus",
-        "explanation": "Separates the frontal and parietal lobes."
+        "explanation": "Separates the frontal and parietal lobes.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card9": {
         "concept": "Occipital Lobe",
-        "explanation": "Under the occipital bone; processes visual information and reading comprehension."
+        "explanation": "Under the occipital bone; processes visual information and reading comprehension.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card10": {
         "concept": "Temporal Lobe",
-        "explanation": "Under the temporal bone; processes auditory information and equilibrium."
+        "explanation": "Under the temporal bone; processes auditory information and equilibrium.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card11": {
         "concept": "Insula",
-        "explanation": "Deep within the lateral sulcus; processes sensory information associated with hearing and equilibrium."
+        "explanation": "Deep within the lateral sulcus; processes sensory information associated with hearing and equilibrium.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card12": {
         "concept": "Corpus Callosum",
-        "explanation": "Major bridge of white fibers connecting the two cerebral hemispheres."
+        "explanation": "Major bridge of white fibers connecting the two cerebral hemispheres.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card13": {
         "concept": "Thalamus",
-        "explanation": "Major relay point and processing center for sensory impulses (excluding olfaction)."
+        "explanation": "Major relay point and processing center for sensory impulses (excluding olfaction).",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card14": {
         "concept": "Hypothalamus",
-        "explanation": "Visceral control center; maintains homeostasis."
+        "explanation": "Visceral control center; maintains homeostasis.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card15": {
         "concept": "Pituitary Gland",
-        "explanation": "Produces and releases endocrine hormones."
+        "explanation": "Produces and releases endocrine hormones.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card16": {
         "concept": "Pineal Gland",
-        "explanation": "Produces and releases endocrine hormones."
+        "explanation": "Produces and releases endocrine hormones.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card17": {
         "concept": "Midbrain",
-        "explanation": "Between the diencephalon and pons; contains various nuclei and tracts."
+        "explanation": "Between the diencephalon and pons; contains various nuclei and tracts.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card18": {
         "concept": "Pons",
-        "explanation": "Part of the brainstem; involved in respiration and sleep-wake cycle."
+        "explanation": "Part of the brainstem; involved in respiration and sleep-wake cycle.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card19": {
         "concept": "Medulla Oblongata",
-        "explanation": "Connects the brain to the spinal cord; controls vital functions like breathing and heart rate."
+        "explanation": "Connects the brain to the spinal cord; controls vital functions like breathing and heart rate.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card20": {
         "concept": "Cerebellum",
-        "explanation": "Coordinates movement, posture, and balance."
+        "explanation": "Coordinates movement, posture, and balance.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card21": {
         "concept": "Basal Nuclei",
-        "explanation": "Subcortical gray matter; regulates skeletal muscle movement."
+        "explanation": "Subcortical gray matter; regulates skeletal muscle movement.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card22": {
         "concept": "Caudate Nucleus",
-        "explanation": "Basal nucleus; initiates voluntary movements and coordinates slow muscle contractions."
+        "explanation": "Basal nucleus; initiates voluntary movements and coordinates slow muscle contractions.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card23": {
         "concept": "Putamen",
-        "explanation": "Basal nucleus; initiates voluntary movements and coordinates slow muscle contractions."
+        "explanation": "Basal nucleus; initiates voluntary movements and coordinates slow muscle contractions.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card24": {
         "concept": "Globus Pallidus",
-        "explanation": "Basal nucleus; initiates voluntary movements and coordinates slow muscle contractions."
+        "explanation": "Basal nucleus; initiates voluntary movements and coordinates slow muscle contractions.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card25": {
         "concept": "Fornix",
-        "explanation": "White matter tract; links regions of the limbic system."
+        "explanation": "White matter tract; links regions of the limbic system.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card26": {
         "concept": "Anterior Commissure",
-        "explanation": "Connects the two cerebral hemispheres."
+        "explanation": "Connects the two cerebral hemispheres.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card27": {
         "concept": "Precentral Gyrus",
-        "explanation": "Location of the primary motor cortex."
+        "explanation": "Location of the primary motor cortex.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card28": {
         "concept": "Postcentral Gyrus",
-        "explanation": "Location of the primary somatosensory cortex."
+        "explanation": "Location of the primary somatosensory cortex.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card29": {
         "concept": "Parieto-occipital Sulcus",
-        "explanation": "Separates the parietal and occipital lobes."
+        "explanation": "Separates the parietal and occipital lobes.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     },
     "card30": {
         "concept": "Lateral Sulcus",
-        "explanation": "Separates the frontal and parietal lobes from the temporal lobe."
+        "explanation": "Separates the frontal and parietal lobes from the temporal lobe.",
+        "repetition": 0,
+        "interval": 0,
+        "ef": 2.5,
+        "last_review_date": "",
+        "next_review_date": "2025-04-07"
     }
 }
