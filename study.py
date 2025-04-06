@@ -45,9 +45,8 @@ def initialize_flashcards(filepath):
 from datetime import timedelta
 
 def update_flashcard(card, quality, review_date):
-    """Compressed SM-2 for 7-day learning windows."""
+    """Apply SM-2 algorithm updates to a flashcard based on review quality."""
     review_date_dt = review_date
-
     if quality < 3:
         card['repetition'] = 0
         card['interval'] = 1
@@ -58,21 +57,13 @@ def update_flashcard(card, quality, review_date):
         elif card['repetition'] == 2:
             card['interval'] = 2
         else:
-            card['interval'] = int(card['interval'] * card['ef'])
-        
-        # Update EF with a more conservative shift
-        card['ef'] += 0.05 * (quality - 3)
+            card['interval'] = int(card['interval'] * card['ef'] * 0.3)
+        # Update easiness factor
+        card['ef'] = card['ef'] + (0.1 - (5 - quality) * (0.08 + (5 - quality) * 0.02))
         if card['ef'] < 1.3:
             card['ef'] = 1.3
-        elif card['ef'] > 2.5:
-            card['ef'] = 2.5  # upper bound
-
     card['last_review_date'] = review_date_dt.strftime('%Y-%m-%d')
     next_review_date = review_date_dt + timedelta(days=card['interval'])
-    if (next_review_date - review_date_dt).days > 7:
-        # Cap reviews to within the 7-day window
-        next_review_date = review_date_dt + timedelta(days=7 - (review_date_dt - datetime.strptime(card['last_review_date'], '%Y-%m-%d')).days)
-
     card['next_review_date'] = next_review_date.strftime('%Y-%m-%d')
     return card
 
