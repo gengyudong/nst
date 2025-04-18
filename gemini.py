@@ -1,9 +1,15 @@
 import json
 import google.generativeai as genai
 from PyPDF2 import PdfReader
+from dotenv import load_dotenv
+import os
+
+# Load environment variables from .env file
+load_dotenv()
+gemini_api_key = os.getenv("GEMINI_API_KEY")
 
 # Configure the generative AI client
-client = genai.configure(api_key="AIzaSyB-f0wwWOlfxVOgfpylwfI0aitBnSw17RA")
+client = genai.configure(api_key=gemini_api_key)
 
 # Step 1: Extract text from a local PDF
 def extract_text_from_pdf(pdf_path):
