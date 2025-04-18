@@ -25,7 +25,7 @@ cd nst
 ```
 
 ### 2. Add Your Gemini API Key
-- Navigate to the .env file and add your Gemini API key
+- Navigate to the `.env` file and add your Gemini API key
 
 ### Run the Jupyter Notebook
 - Navigate to `main.ipynb`.
